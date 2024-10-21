@@ -13,7 +13,7 @@ to run the app:
 You cloned the repository from GitHub to your local machine. Initially, there was a mistake in the URL, but after fixing it, you successfully cloned it.
 
 
-###git clone https://github.com/avinash201199/weather-app.git
+###git clone https://github.com/yashchaudhary05/weather_app.git
 
 This downloaded the project to the folder weather-app in your working directory.
 
