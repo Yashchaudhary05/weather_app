@@ -21,7 +21,7 @@ This downloaded the project to the folder weather-app in your working directory.
 After cloning, you navigated to the project directory:
 
 
-###cd weather-app
+###cd weather_app
 
 3. Install Dependencies
 You ran npm install to install all the required dependencies for the project. This installs the packages listed in the package.json file, including Gulp.
