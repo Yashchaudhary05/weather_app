@@ -13,24 +13,27 @@ to run the app:
 You cloned the repository from GitHub to your local machine. Initially, there was a mistake in the URL, but after fixing it, you successfully cloned it.
 
 
-git clone https://github.com/avinash201199/weather-app.git
+###git clone https://github.com/avinash201199/weather-app.git
+
 This downloaded the project to the folder weather-app in your working directory.
 
 2. Navigate to the Project Directory
 After cloning, you navigated to the project directory:
 
 
-cd weather-app
+###cd weather-app
+
 3. Install Dependencies
 You ran npm install to install all the required dependencies for the project. This installs the packages listed in the package.json file, including Gulp.
 
-npm install
+###npm install
+
 This step also raised a few warnings about deprecated packages, but it didn't block the installation.
 
 4. List Available Gulp Tasks
 You checked the available Gulp tasks in the project by running:
 
-gulp --tasks
+###gulp --tasks
 
 This showed that the Gulp tasks available were:
 
@@ -43,7 +46,8 @@ sync
 You ran the sync task, which is the task responsible for serving the project with Browsersync:
 
 
-gulp sync
+###gulp sync
+
 This started a local server and opened the project in your browser at:
 
 Local URL: http://localhost:3000
