@@ -33,4 +33,4 @@ RUN npm install
 EXPOSE 3000
 
 # Run the app using Gulp
-CMD ["gulp", "sync"]d
+CMD ["gulp", "sync"]
